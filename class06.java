@@ -10,7 +10,7 @@ import javafx.stage.Stage;
 
 /**
  * Created by Rushu on 5/5/2017.
- * How to switch from one scene to other
+ * How to switch from one scene to other scene
  */
 public class class06 extends Application{
 
